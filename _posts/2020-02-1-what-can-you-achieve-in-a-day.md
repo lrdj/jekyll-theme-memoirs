@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "What can you achieve in a day?"
-author: Morna
+author: Dug
 categories: [ Consulting ]
+tags: [ agile, sprints ]
 image: assets/images/16.jpg
 ---
 
